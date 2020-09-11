@@ -69,3 +69,26 @@ main {
     background-position: 0 0;
   }
 }
+
+/* My CSS AHMED */
+
+body {
+  background-color: #0067f4 !important;
+}
+
+.corgi-content {
+  display: none;
+}
+
+h1 {
+  color: white !important;
+}
+
+.user-info button{
+  background-color:white !important;
+  color: black !important;
+}
+
+.lwj-demo-footer a:active, .lwj-demo-footer a:focus, .lwj-demo-footer a:hover {
+  color: 0067f4;
+}
