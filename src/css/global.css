@@ -77,11 +77,12 @@ body {
 }
 
 .corgi-content {
-  display: none;
+  display: none !important;
 }
 
 h1 {
   color: white !important;
+  margin-bottom: 140px;
 }
 
 .user-info button{
@@ -90,5 +91,5 @@ h1 {
 }
 
 .lwj-demo-footer a:active, .lwj-demo-footer a:focus, .lwj-demo-footer a:hover {
-  color: 0067f4;
+  color: #0067f4 !important;
 }
