@@ -1,6 +1,6 @@
 module.exports = {
   // keep it short! shown in the header
-  title: 'Stripe Subscriptions',
+  title: 'Bullet Desings',
 
   // these are all optional and add links to the footer
   repo: 'stripe-samples/netlify-stripe-subscriptions',
