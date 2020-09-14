@@ -1,3 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9ce37326-774b-4a73-9fad-77f140447be1/deploy-status)](https://app.netlify.com/sites/tender-torvalds-8ef626/deploys)
+
+
+
 <p align="center">
   <a href="https://www.learnwithjason.dev">
     <img src="https://res.cloudinary.com/jlengstorf/image/upload/q_auto,f_auto,w_240/v1579281727/lwj/learnwithjason.png" alt="Learn With Jason" width="120" />
